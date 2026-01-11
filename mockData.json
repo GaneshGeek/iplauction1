@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Virat Kohli",
+        "role": "Batsman",
+        "country": "India",
+        "basePrice": 200,
+        "image": "https://documents.iplt20.com/ipl/IPLHeadshot2024/2.png",
+        "stats": {
+            "matches": 237,
+            "runs": 7263,
+            "average": 37.25,
+            "strikeRate": 130.02
+        }
+    },
+    {
+        "id": 2,
+        "name": "Jasprit Bumrah",
+        "role": "Bowler",
+        "country": "India",
+        "basePrice": 200,
+        "image": "https://documents.iplt20.com/ipl/IPLHeadshot2024/9.png",
+        "stats": {
+            "matches": 120,
+            "wickets": 145,
+            "economy": 7.4,
+            "average": 23.3
+        }
+    },
+    {
+        "id": 3,
+        "name": "Glenn Maxwell",
+        "role": "All-Rounder",
+        "country": "Australia",
+        "basePrice": 200,
+        "image": "https://documents.iplt20.com/ipl/IPLHeadshot2024/28.png",
+        "stats": {
+            "matches": 124,
+            "runs": 2719,
+            "wickets": 31,
+            "strikeRate": 157.6
+        }
+    },
+    {
+        "id": 4,
+        "name": "Rashid Khan",
+        "role": "Bowler",
+        "country": "Afghanistan",
+        "basePrice": 200,
+        "image": "https://documents.iplt20.com/ipl/IPLHeadshot2024/218.png",
+        "stats": {
+            "matches": 109,
+            "wickets": 139,
+            "economy": 6.67,
+            "average": 20.76
+        }
+    }
+]
